@@ -9,7 +9,7 @@ namespace CalastoneCandidateTest.Filters
 
         public string Filter(string word)
         {
-            return Regex.IsMatch(word.TrimEnd(), filterChar.ToString()) ? string.Empty : word;
+            return Regex.IsMatch(word.ToLower().TrimEnd(), filterChar.ToString()) ? string.Empty : word;
         }
     }
 }

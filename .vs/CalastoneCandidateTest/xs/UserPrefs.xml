@@ -1,12 +1,13 @@
 ﻿<Properties StartupConfiguration="{1AD196D5-6382-4856-BF45-36BF7242AB46}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="CalastoneCandidateTest.Test/UnitTest1.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="CalastoneCandidateTest.Test/LessThanThreeFilterTests.cs">
     <Files>
-      <File FileName="CalastoneCandidateTest/Filters/LessThanThreeFilter.cs" Line="1" Column="28" />
+      <File FileName="CalastoneCandidateTest/Filters/LessThanThreeFilter.cs" Line="10" Column="10" />
       <File FileName="CalastoneCandidateTest/Filters/MiddleVowelsFilter.cs" Line="3" Column="1" />
       <File FileName="CalastoneCandidateTest/Filters/IFilter.cs" Line="9" Column="36" />
       <File FileName="CalastoneCandidateTest/Filters/AllFilters.cs" Line="24" Column="14" />
-      <File FileName="CalastoneCandidateTest/Filters/RemoveLetterFilter.cs" Line="2" Column="1" />
+      <File FileName="CalastoneCandidateTest/Filters/RemoveLetterFilter.cs" Line="13" Column="10" />
       <File FileName="CalastoneCandidateTest.Test/UnitTest1.cs" Line="1" Column="1" />
+      <File FileName="CalastoneCandidateTest.Test/RemoveLetterFilterTests.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -15,8 +16,15 @@
             <Node name="CalastoneCandidateTest" expanded="True">
               <Node name="Filters" expanded="True" />
             </Node>
-            <Node name="CalastoneCandidateTest.Test" expanded="True" selected="True" />
+            <Node name="CalastoneCandidateTest.Test" expanded="True">
+              <Node name="LessThanThreeFilterTests.cs" selected="True" />
+            </Node>
           </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="CalastoneCandidateTest" expanded="True" selected="True" />
         </State>
       </Pad>
     </Pads>
@@ -24,7 +32,6 @@
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.ItemProperties.CalastoneCandidateTest PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.CalastoneCandidateTest.Test FirstBuild="True" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
