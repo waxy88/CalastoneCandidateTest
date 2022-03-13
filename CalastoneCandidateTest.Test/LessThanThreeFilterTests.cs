@@ -31,5 +31,13 @@ namespace CalastoneCandidateTest.Test
             Assert.IsTrue(lttf.Filter("so ").IsNullOrWhiteSpace());
         }
 
+        [Test]
+        public void Returns_true_if_word_is_less_than_three_and_contains_punctation()
+        {
+            var lttf = new LessThanThreeFilter();
+
+            Assert.IsTrue(lttf.Filter("so!").IsNullOrWhiteSpace());
+        }
+
     }
 }

@@ -7,7 +7,7 @@ namespace CalastoneCandidateTest.Test
     public class MiddleVowelsFilterTests
     {
         [Test]
-        public void Returns_true_if_old_len_word_contains_vowels_in_middle()
+        public void Returns_true_if_odd_len_word_contains_vowels_in_middle()
         {
             var mvf = new MiddleVowelsFilter();
 
@@ -15,7 +15,7 @@ namespace CalastoneCandidateTest.Test
         }
 
         [Test]
-        public void Returns_false_if_old_len_word_does_not_contain_vowels_in_middle()
+        public void Returns_false_if_odd_len_word_does_not_contain_vowels_in_middle()
         {
             var mvf = new MiddleVowelsFilter();
 
@@ -44,6 +44,14 @@ namespace CalastoneCandidateTest.Test
             var mvf = new MiddleVowelsFilter();
 
             Assert.IsTrue(mvf.Filter("Bout").IsNullOrWhiteSpace());
+        }
+
+        [Test]
+        public void Returns_true_if_odd_len_word_contains_vowels_in_middle_and_punctuation()
+        {
+            var mvf = new MiddleVowelsFilter();
+
+            Assert.IsTrue(mvf.Filter("cat!").IsNullOrWhiteSpace());
         }
     }
 }
