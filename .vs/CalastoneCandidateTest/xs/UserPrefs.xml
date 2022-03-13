@@ -1,21 +1,21 @@
 ﻿<Properties StartupConfiguration="{1AD196D5-6382-4856-BF45-36BF7242AB46}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="CalastoneCandidateTest/Filters/RemoveLetterFilter.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="CalastoneCandidateTest.Test/UnitTest1.cs">
     <Files>
       <File FileName="CalastoneCandidateTest/Filters/LessThanThreeFilter.cs" Line="1" Column="28" />
       <File FileName="CalastoneCandidateTest/Filters/MiddleVowelsFilter.cs" Line="3" Column="1" />
       <File FileName="CalastoneCandidateTest/Filters/IFilter.cs" Line="9" Column="36" />
       <File FileName="CalastoneCandidateTest/Filters/AllFilters.cs" Line="24" Column="14" />
-      <File FileName="CalastoneCandidateTest/Filters/RemoveLetterFilter.cs" Line="15" Column="10" />
+      <File FileName="CalastoneCandidateTest/Filters/RemoveLetterFilter.cs" Line="2" Column="1" />
+      <File FileName="CalastoneCandidateTest.Test/UnitTest1.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="CalastoneCandidateTest" expanded="True">
             <Node name="CalastoneCandidateTest" expanded="True">
-              <Node name="Filters" expanded="True">
-                <Node name="RemoveLetterFilter.cs" selected="True" />
-              </Node>
+              <Node name="Filters" expanded="True" />
             </Node>
+            <Node name="CalastoneCandidateTest.Test" expanded="True" selected="True" />
           </Node>
         </State>
       </Pad>
@@ -24,6 +24,7 @@
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.ItemProperties.CalastoneCandidateTest PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.CalastoneCandidateTest.Test FirstBuild="True" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
