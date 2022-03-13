@@ -6,8 +6,6 @@ namespace CalastoneCandidateTest.Filters
 {
     public class MiddleVowelsFilter : IFilter
     {
-        public MiddleVowelsFilter() { }
-
         public string Filter(string word)
         {
             return word.IsNullOrWhiteSpace() ? word :

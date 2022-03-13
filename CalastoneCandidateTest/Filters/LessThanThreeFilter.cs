@@ -5,8 +5,6 @@ namespace CalastoneCandidateTest.Filters
 {
     public class LessThanThreeFilter : IFilter
     {
-        public LessThanThreeFilter() {}
-
         private Regex alphanumRgx = new Regex("[^a-zA-Z0-9 -]");
 
         public string Filter(string word)
