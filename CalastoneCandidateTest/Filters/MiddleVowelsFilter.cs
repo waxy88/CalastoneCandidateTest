@@ -8,6 +8,12 @@ namespace CalastoneCandidateTest.Filters
     {
         public MiddleVowelsFilter() { }
 
+        public string Filter(string word)
+        {
+            return word.IsNullOrWhiteSpace() ? word :
+                    word.TrimEnd().GetMiddleCharacters().All(v => v.IsVowel()) ? string.Empty : word;
+        }
+
         public List<string> Filter(List<string> inStr)
         {
             var result = new List<string>();
