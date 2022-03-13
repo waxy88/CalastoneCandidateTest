@@ -6,8 +6,9 @@
       <File FileName="CalastoneCandidateTest/Filters/IFilter.cs" Line="9" Column="36" />
       <File FileName="CalastoneCandidateTest/Filters/AllFilters.cs" Line="24" Column="14" />
       <File FileName="CalastoneCandidateTest/Filters/RemoveLetterFilter.cs" Line="13" Column="10" />
-      <File FileName="CalastoneCandidateTest.Test/UnitTest1.cs" Line="1" Column="1" />
-      <File FileName="CalastoneCandidateTest.Test/RemoveLetterFilterTests.cs" Line="1" Column="1" />
+      <File FileName="CalastoneCandidateTest.Test/UnitTest1.cs" Line="16" Column="10" />
+      <File FileName="CalastoneCandidateTest.Test/RemoveLetterFilterTests.cs" Line="29" Column="1" />
+      <File FileName="CalastoneCandidateTest.Test/MiddleVowelsFilterTests.cs" Line="6" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
