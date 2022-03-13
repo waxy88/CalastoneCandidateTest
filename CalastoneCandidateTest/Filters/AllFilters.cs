@@ -1,5 +1,6 @@
 ﻿
 using System.Collections.Generic;
+using CalastoneCandidateTest.Extensions;
 
 namespace CalastoneCandidateTest.Filters
 {
@@ -13,10 +14,14 @@ namespace CalastoneCandidateTest.Filters
 
         public string Apply(List<string> listInStr)
         {
-
-            var result = middleVowelsFilter.Filter(listInStr);
-            result = lessThanThreeFilter.Filter(result);
-            result = removeLetterFilter.Filter(result);
+            var result = new List<string>();
+            foreach(var word in listInStr)
+            {
+                if (middleVowelsFilter.Filter(word).IsNotNullOrWhiteSpace() &&
+                    lessThanThreeFilter.Filter(word).IsNotNullOrWhiteSpace() &&
+                    removeLetterFilter.Filter(word).IsNotNullOrWhiteSpace())
+                    result.Add(word);
+            }
 
             return string.Join("", result);
         }

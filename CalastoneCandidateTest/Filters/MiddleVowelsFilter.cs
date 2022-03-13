@@ -1,6 +1,5 @@
-﻿using CalastoneCandidateTest.Extensions;
-using System.Collections.Generic;
-using System.Linq;
+﻿using System.Linq;
+using CalastoneCandidateTest.Extensions;
 
 namespace CalastoneCandidateTest.Filters
 {
@@ -10,20 +9,6 @@ namespace CalastoneCandidateTest.Filters
         {
             return word.IsNullOrWhiteSpace() ? word :
                     word.TrimEnd().GetMiddleCharacters().All(v => v.IsVowel()) ? string.Empty : word;
-        }
-
-        public List<string> Filter(List<string> inStr)
-        {
-            var result = new List<string>();
-
-            foreach (var str in inStr)
-            {
-                var appendStr = str.IsNullOrWhiteSpace() ? str :
-                    str.TrimEnd().GetMiddleCharacters().All(v => v.IsVowel()) ? string.Empty : str;
-                if (appendStr.IsNotNullOrWhiteSpace()) result.Add(appendStr);
-            }
-
-            return result;
         }
     }
 
