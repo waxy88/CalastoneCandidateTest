@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/joelwaxman/Projects/CalastoneCandidateTest/CalastoneCandidateTest/CalastoneCandidateTest.csproj",
+      "projectUniqueName": "/Users/joelwaxman/Projects/GitHub/CalastoneCandidateTest/CalastoneCandidateTest/CalastoneCandidateTest.csproj",
       "projectName": "CalastoneCandidateTest",
-      "projectPath": "/Users/joelwaxman/Projects/CalastoneCandidateTest/CalastoneCandidateTest/CalastoneCandidateTest.csproj",
+      "projectPath": "/Users/joelwaxman/Projects/GitHub/CalastoneCandidateTest/CalastoneCandidateTest/CalastoneCandidateTest.csproj",
       "packagesPath": "/Users/joelwaxman/.nuget/packages/",
-      "outputPath": "/Users/joelwaxman/Projects/CalastoneCandidateTest/CalastoneCandidateTest/obj/",
+      "outputPath": "/Users/joelwaxman/Projects/GitHub/CalastoneCandidateTest/CalastoneCandidateTest/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/joelwaxman/.config/NuGet/NuGet.Config"

@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{1AD196D5-6382-4856-BF45-36BF7242AB46}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="CalastoneCandidateTest/Filters/IFilter.cs">
+    <Files>
+      <File FileName="CalastoneCandidateTest/Filters/LessThanThreeFilter.cs" Line="21" Column="38" />
+      <File FileName="CalastoneCandidateTest/Filters/MiddleVowelsFilter.cs" Line="14" Column="101" />
+      <File FileName="CalastoneCandidateTest/Filters/IFilter.cs" Line="9" Column="22" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CalastoneCandidateTest" expanded="True">
+            <Node name="CalastoneCandidateTest" expanded="True">
+              <Node name="Filters" expanded="True">
+                <Node name="IFilter.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.CalastoneCandidateTest PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

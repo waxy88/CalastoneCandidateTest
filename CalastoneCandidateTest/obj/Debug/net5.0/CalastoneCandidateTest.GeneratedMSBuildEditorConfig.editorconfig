@@ -7,4 +7,4 @@ build_property.PublishSingleFile =
 build_property.IncludeAllContentForSelfExtract = 
 build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
 build_property.RootNamespace = CalastoneCandidateTest
-build_property.ProjectDir = /Users/joelwaxman/Projects/CalastoneCandidateTest/CalastoneCandidateTest/
+build_property.ProjectDir = /Users/joelwaxman/Projects/GitHub/CalastoneCandidateTest/CalastoneCandidateTest/
