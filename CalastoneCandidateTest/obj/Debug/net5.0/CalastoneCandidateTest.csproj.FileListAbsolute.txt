@@ -1,0 +1,15 @@
+/Users/joelwaxman/Projects/CalastoneCandidateTest/CalastoneCandidateTest/bin/Debug/net5.0/CalastoneCandidateTest.deps.json
+/Users/joelwaxman/Projects/CalastoneCandidateTest/CalastoneCandidateTest/bin/Debug/net5.0/CalastoneCandidateTest.runtimeconfig.json
+/Users/joelwaxman/Projects/CalastoneCandidateTest/CalastoneCandidateTest/bin/Debug/net5.0/CalastoneCandidateTest.runtimeconfig.dev.json
+/Users/joelwaxman/Projects/CalastoneCandidateTest/CalastoneCandidateTest/bin/Debug/net5.0/CalastoneCandidateTest.dll
+/Users/joelwaxman/Projects/CalastoneCandidateTest/CalastoneCandidateTest/bin/Debug/net5.0/ref/CalastoneCandidateTest.dll
+/Users/joelwaxman/Projects/CalastoneCandidateTest/CalastoneCandidateTest/bin/Debug/net5.0/CalastoneCandidateTest.pdb
+/Users/joelwaxman/Projects/CalastoneCandidateTest/CalastoneCandidateTest/obj/Debug/net5.0/CalastoneCandidateTest.csproj.AssemblyReference.cache
+/Users/joelwaxman/Projects/CalastoneCandidateTest/CalastoneCandidateTest/obj/Debug/net5.0/CalastoneCandidateTest.GeneratedMSBuildEditorConfig.editorconfig
+/Users/joelwaxman/Projects/CalastoneCandidateTest/CalastoneCandidateTest/obj/Debug/net5.0/CalastoneCandidateTest.AssemblyInfoInputs.cache
+/Users/joelwaxman/Projects/CalastoneCandidateTest/CalastoneCandidateTest/obj/Debug/net5.0/CalastoneCandidateTest.AssemblyInfo.cs
+/Users/joelwaxman/Projects/CalastoneCandidateTest/CalastoneCandidateTest/obj/Debug/net5.0/CalastoneCandidateTest.csproj.CoreCompileInputs.cache
+/Users/joelwaxman/Projects/CalastoneCandidateTest/CalastoneCandidateTest/obj/Debug/net5.0/CalastoneCandidateTest.dll
+/Users/joelwaxman/Projects/CalastoneCandidateTest/CalastoneCandidateTest/obj/Debug/net5.0/ref/CalastoneCandidateTest.dll
+/Users/joelwaxman/Projects/CalastoneCandidateTest/CalastoneCandidateTest/obj/Debug/net5.0/CalastoneCandidateTest.pdb
+/Users/joelwaxman/Projects/CalastoneCandidateTest/CalastoneCandidateTest/obj/Debug/net5.0/CalastoneCandidateTest.genruntimeconfig.cache

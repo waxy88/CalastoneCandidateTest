@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.810.20
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalastoneCandidateTest", "CalastoneCandidateTest.csproj", "{BD242518-A74F-4122-AD59-E6D8E898D6FD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalastoneCandidateTest.Tests", "CalastoneCandidateTest.Tests\CalastoneCandidateTest.Tests.csproj", "{E2B270DC-C3A8-4FF3-B70A-AF59BE4C845D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BD242518-A74F-4122-AD59-E6D8E898D6FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD242518-A74F-4122-AD59-E6D8E898D6FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD242518-A74F-4122-AD59-E6D8E898D6FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD242518-A74F-4122-AD59-E6D8E898D6FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E2B270DC-C3A8-4FF3-B70A-AF59BE4C845D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2B270DC-C3A8-4FF3-B70A-AF59BE4C845D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E2B270DC-C3A8-4FF3-B70A-AF59BE4C845D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E2B270DC-C3A8-4FF3-B70A-AF59BE4C845D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D1602A9E-709D-4913-9898-6FDFB278E303}
+	EndGlobalSection
+EndGlobal

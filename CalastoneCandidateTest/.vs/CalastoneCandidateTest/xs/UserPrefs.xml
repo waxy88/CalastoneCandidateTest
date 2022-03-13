@@ -1,0 +1,37 @@
+﻿<Properties StartupConfiguration="{BD242518-A74F-4122-AD59-E6D8E898D6FD}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="CalastoneCandidateTest.Tests/CalastoneCandidateTest.Tests.csproj">
+    <Files>
+      <File FileName="Filters/RemoveLetterFilter.cs" Line="13" Column="1" />
+      <File FileName="Filters/IFilter.cs" />
+      <File FileName="Filters/LessThanThreeFilter.cs" />
+      <File FileName="Program.cs" />
+      <File FileName="Extensions/StringExtensions.cs" />
+      <File FileName="Extensions/CharExtensions.cs" />
+      <File FileName="Filters/MiddleVowelsFilter.cs" />
+      <File FileName="CalastoneCandidateTest.Tests/UnitTest1.cs" Line="2" Column="44" />
+      <File FileName="CalastoneCandidateTest.Tests/CalastoneCandidateTest.Tests.csproj" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CalastoneCandidateTest" expanded="True">
+            <Node name="CalastoneCandidateTest" expanded="True" />
+            <Node name="CalastoneCandidateTest.Tests" expanded="True" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="CalastoneCandidateTest" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.CalastoneCandidateTest PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
