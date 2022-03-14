@@ -10,7 +10,7 @@ namespace CalastoneCandidateTest.Filters
 
         private LessThanThreeFilter lessThanThreeFilter = new LessThanThreeFilter();
         private MiddleVowelsFilter middleVowelsFilter = new MiddleVowelsFilter();
-        private RemoveLetterFilter removeLetterFilter = new RemoveLetterFilter();
+        private RemoveLetterFilter removeLetterFilter = new RemoveLetterFilter('t');
 
         public string Apply(List<string> listInStr)
         {
